@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26640" started-at="2020-10-16T12:31:53 IST" finished-at="2020-10-16T12:32:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26640" started-at="2020-10-16T12:31:53 IST" finished-at="2020-10-16T12:32:20 IST">
+      <class name="allureReports.ProviderRegister">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:allureReports.ProviderRegister@10c8a99]" name="setUp" is-config="true" duration-ms="8679" started-at="2020-10-16T12:31:53 IST" finished-at="2020-10-16T12:32:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:allureReports.ProviderRegister@10c8a99]" name="loginTest" duration-ms="3775" started-at="2020-10-16T12:32:02 IST" description="Login Access" finished-at="2020-10-16T12:32:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="ProviderClick()[pri:3, instance:allureReports.ProviderRegister@10c8a99]" name="ProviderClick" duration-ms="3042" started-at="2020-10-16T12:32:06 IST" description="PROVIDER" depends-on-methods="allureReports.ProviderRegister.loginTest" finished-at="2020-10-16T12:32:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProviderClick -->
+        <test-method status="PASS" signature="ProviderMandatoryFields()[pri:3, instance:allureReports.ProviderRegister@10c8a99]" name="ProviderMandatoryFields" duration-ms="377" started-at="2020-10-16T12:32:09 IST" description="Form-Mandatory Fields" depends-on-methods="allureReports.ProviderRegister.ProviderClick" finished-at="2020-10-16T12:32:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProviderMandatoryFields -->
+        <test-method status="PASS" signature="ProviderForm()[pri:3, instance:allureReports.ProviderRegister@10c8a99]" name="ProviderForm" duration-ms="10406" started-at="2020-10-16T12:32:10 IST" description="Provider Form" depends-on-methods="allureReports.ProviderRegister.ProviderMandatoryFields" finished-at="2020-10-16T12:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProviderForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:allureReports.ProviderRegister@10c8a99]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-10-16T12:32:20 IST" finished-at="2020-10-16T12:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- allureReports.ProviderRegister -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

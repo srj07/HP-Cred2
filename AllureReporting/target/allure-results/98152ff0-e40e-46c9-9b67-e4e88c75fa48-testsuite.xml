@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1602831713882" stop="1602831740562" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1602831722907" stop="1602831726620" status="passed">
+            <name>loginTest</name>
+            <description>Login Access</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="loginTest"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="10440@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602831726644" stop="1602831729680" status="passed">
+            <name>ProviderClick</name>
+            <description>PROVIDER</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="ProviderClick"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="10440@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602831729693" stop="1602831730078" status="passed">
+            <name>ProviderMandatoryFields</name>
+            <description>Form-Mandatory Fields</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="ProviderMandatoryFields"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="10440@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602831730087" stop="1602831740493" status="passed">
+            <name>ProviderForm</name>
+            <description>Provider Form</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="ProviderForm"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="10440@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

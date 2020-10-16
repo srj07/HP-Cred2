@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1602761007849" stop="1602761024322" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1602761018512" stop="1602761020553" status="passed">
+            <name>loginTest</name>
+            <description>Login Access</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="loginTest"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="2008@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602761021099" stop="1602761024246" status="passed">
+            <name>clinicAlertPresent</name>
+            <description>PROVIDER</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="clinicAlertPresent"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="2008@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

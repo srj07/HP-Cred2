@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1602829579152" stop="1602829602786" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1602829587665" stop="1602829588119" status="passed">
+            <name>TestLogin</name>
+            <description>Verify Logo presence on Home Page</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.Tests"/>
+                <label name="testMethod" value="TestLogin"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="3780@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602829588137" stop="1602829590024" status="passed">
+            <name>loginTest</name>
+            <description>Verify login</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.Tests"/>
+                <label name="testMethod" value="loginTest"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="3780@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602829590032" stop="1602829601871" status="passed">
+            <name>clinicAlertPresent</name>
+            <description>Clinic-Screen</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.Tests"/>
+                <label name="testMethod" value="clinicAlertPresent"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="3780@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602829601879" stop="1602829602114" status="passed">
+            <name>clinicPage</name>
+            <description>Clinic-Hospital</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.Tests"/>
+                <label name="testMethod" value="clinicPage"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="3780@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602829602128" stop="1602829602464" status="passed">
+            <name>activeHospitalTab</name>
+            <description>Clinic-payer</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.Tests"/>
+                <label name="testMethod" value="activeHospitalTab"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="3780@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602829602471" stop="1602829602726" status="passed">
+            <name>activeProviderTab</name>
+            <description>Clinic-provider</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.Tests"/>
+                <label name="testMethod" value="activeProviderTab"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="3780@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

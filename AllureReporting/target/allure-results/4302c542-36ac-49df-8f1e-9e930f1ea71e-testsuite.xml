@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1602829627935" stop="1602829642238" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1602829636374" stop="1602829638832" status="passed">
+            <name>loginTest</name>
+            <description>Login Access</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="loginTest"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="9448@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602829638881" stop="1602829641791" status="passed">
+            <name>ProviderClick</name>
+            <description>PROVIDER</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="ProviderClick"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="9448@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1602829641798" stop="1602829642193" status="passed">
+            <name>ProviderMandatoryFields</name>
+            <description>Mandatory Fields</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="allureReports.ProviderRegister"/>
+                <label name="testMethod" value="ProviderMandatoryFields"/>
+                <label name="host" value="Sreeraj"/>
+                <label name="thread" value="9448@Sreeraj.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
